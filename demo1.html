@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title></title>
+  <script type="text/javascript" src="https://code.jquery.com/jquery-1.12.0.js"></script>
+  <style>
+    .a_row {
+      text-align: center;
+    }
+    .a_row img {
+      display: none;
+      border-radius: 3px;
+      box-shadow: 1px 1px 3px #8E8E8E;
+    }
+    .a_row div {
+      margin: 2px 1px;
+      width: 200px;
+      height: 120px;
+      display: inline-block;
+    }
+  </style>
+</head>
+<body>
+  <div class="a_row">
+    <div><img src="http://lorempixel.com/200/120/cats/1"><span></span></div>
+    <div><img src="http://lorempixel.com/200/120/cats/2"><span></span></div>
+    <div><img src="http://lorempixel.com/200/120/cats/3"><span></span></div>
+    <div><img src="http://lorempixel.com/200/120/cats/4"><span></span></div>
+    <div><img src="http://lorempixel.com/200/120/cats/5"><span></span></div>
+  </div>
+  <div class="a_row">
+    <div><img src="http://lorempixel.com/200/120/cats/6"><span></span></div>
+    <div><img src="http://lorempixel.com/200/120/cats/7"><span></span></div>
+    <div><img src="http://lorempixel.com/200/120/cats/8"><span></span></div>
+    <div><img src="http://lorempixel.com/200/120/cats/9"><span></span></div>
+  </div>
+  <div></div>
+</body>
+<script type="text/javascript">
+$(window).load(function(e) {
+  $('.a_row img').each(function(index, elem) {
+      setTimeout(function () {
+          $(elem).fadeIn(500);
+      }, index * 500);
+  });
+  console.log(e);
+});
+    
+</script>
+</html>
+
