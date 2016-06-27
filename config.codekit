@@ -2266,6 +2266,136 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/stylesheets\/optimized_contents\/css\/magnific-popup.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/stylesheets\/optimized_contents\/css\/magnific-popup.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/stylesheets\/optimized_contents\/image\/food.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2778,
+		"inputAbbreviatedPath": "\/stylesheets\/optimized_contents\/image\/food.png",
+		"outputAbbreviatedPath": "\/stylesheets\/optimized_contents\/image\/food.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/stylesheets\/optimized_contents\/image\/logo1_white.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13173,
+		"inputAbbreviatedPath": "\/stylesheets\/optimized_contents\/image\/logo1_white.png",
+		"outputAbbreviatedPath": "\/stylesheets\/optimized_contents\/image\/logo1_white.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/stylesheets\/optimized_contents\/image\/nature.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1850,
+		"inputAbbreviatedPath": "\/stylesheets\/optimized_contents\/image\/nature.png",
+		"outputAbbreviatedPath": "\/stylesheets\/optimized_contents\/image\/nature.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/stylesheets\/optimized_contents\/image\/night.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2960,
+		"inputAbbreviatedPath": "\/stylesheets\/optimized_contents\/image\/night.png",
+		"outputAbbreviatedPath": "\/stylesheets\/optimized_contents\/image\/night.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/stylesheets\/optimized_contents\/image\/paradise.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3658,
+		"inputAbbreviatedPath": "\/stylesheets\/optimized_contents\/image\/paradise.png",
+		"outputAbbreviatedPath": "\/stylesheets\/optimized_contents\/image\/paradise.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/stylesheets\/optimized_contents\/image\/pet.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2445,
+		"inputAbbreviatedPath": "\/stylesheets\/optimized_contents\/image\/pet.png",
+		"outputAbbreviatedPath": "\/stylesheets\/optimized_contents\/image\/pet.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/stylesheets\/optimized_contents\/image\/room1_4_thumb.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3676,
+		"inputAbbreviatedPath": "\/stylesheets\/optimized_contents\/image\/room1_4_thumb.jpg",
+		"outputAbbreviatedPath": "\/stylesheets\/optimized_contents\/image\/room1_4_thumb.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/stylesheets\/optimized_contents\/image\/room2_4_thumb.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3434,
+		"inputAbbreviatedPath": "\/stylesheets\/optimized_contents\/image\/room2_4_thumb.jpg",
+		"outputAbbreviatedPath": "\/stylesheets\/optimized_contents\/image\/room2_4_thumb.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/stylesheets\/optimized_contents\/image\/room2_6_thumb.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3235,
+		"inputAbbreviatedPath": "\/stylesheets\/optimized_contents\/image\/room2_6_thumb.jpg",
+		"outputAbbreviatedPath": "\/stylesheets\/optimized_contents\/image\/room2_6_thumb.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/stylesheets\/optimized_contents\/js\/bootstrap.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/stylesheets\/optimized_contents\/js\/bootstrap.js",
+		"outputAbbreviatedPath": "\/stylesheets\/optimized_contents\/js\/min\/bootstrap-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/stylesheets\/optimized_contents\/js\/gmaps.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/stylesheets\/optimized_contents\/js\/gmaps.js",
+		"outputAbbreviatedPath": "\/stylesheets\/optimized_contents\/js\/min\/gmaps-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
 	"\/stylesheets\/print.css": {
 		"fileType": 16,
 		"ignore": 1,
