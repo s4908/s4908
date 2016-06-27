@@ -11,6 +11,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/css\/magnific-popup.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/magnific-popup.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/demo1.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -19,6 +28,105 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
+		},
+	"\/image\/food.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2778,
+		"inputAbbreviatedPath": "\/image\/food.png",
+		"outputAbbreviatedPath": "\/image\/food.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/image\/logo1_white.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13173,
+		"inputAbbreviatedPath": "\/image\/logo1_white.png",
+		"outputAbbreviatedPath": "\/image\/logo1_white.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/image\/nature.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1850,
+		"inputAbbreviatedPath": "\/image\/nature.png",
+		"outputAbbreviatedPath": "\/image\/nature.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/image\/night.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2960,
+		"inputAbbreviatedPath": "\/image\/night.png",
+		"outputAbbreviatedPath": "\/image\/night.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/image\/paradise.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3658,
+		"inputAbbreviatedPath": "\/image\/paradise.png",
+		"outputAbbreviatedPath": "\/image\/paradise.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/image\/pet.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2445,
+		"inputAbbreviatedPath": "\/image\/pet.png",
+		"outputAbbreviatedPath": "\/image\/pet.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/image\/room1_4_thumb.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3676,
+		"inputAbbreviatedPath": "\/image\/room1_4_thumb.jpg",
+		"outputAbbreviatedPath": "\/image\/room1_4_thumb.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/image\/room2_4_thumb.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3434,
+		"inputAbbreviatedPath": "\/image\/room2_4_thumb.jpg",
+		"outputAbbreviatedPath": "\/image\/room2_4_thumb.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/image\/room2_6_thumb.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3235,
+		"inputAbbreviatedPath": "\/image\/room2_6_thumb.jpg",
+		"outputAbbreviatedPath": "\/image\/room2_6_thumb.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/img\/carousel_1.jpg": {
 		"fileType": 16384,
@@ -991,6 +1099,28 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/javascripts\/smooth-scroll.min.js",
 		"outputAbbreviatedPath": "\/javascripts\/min\/smooth-scroll.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/bootstrap.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/bootstrap.js",
+		"outputAbbreviatedPath": "\/js\/min\/bootstrap-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/gmaps.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/gmaps.js",
+		"outputAbbreviatedPath": "\/js\/min\/gmaps-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
