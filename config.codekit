@@ -260,6 +260,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/feature\/location.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3745,
+		"inputAbbreviatedPath": "\/img\/feature\/location.png",
+		"outputAbbreviatedPath": "\/img\/feature\/location.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/feature\/location_i.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 42987,
+		"inputAbbreviatedPath": "\/img\/feature\/location_i.jpg",
+		"outputAbbreviatedPath": "\/img\/feature\/location_i.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/feature\/nature.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -476,6 +498,17 @@
 		"initialSize": 53443,
 		"inputAbbreviatedPath": "\/img\/map.jpg",
 		"outputAbbreviatedPath": "\/img\/map.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/n1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 800049,
+		"inputAbbreviatedPath": "\/img\/n1.jpg",
+		"outputAbbreviatedPath": "\/img\/n1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
