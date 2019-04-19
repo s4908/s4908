@@ -147,10 +147,10 @@
             <div class="col-sm-6">
               <div class="gallery"> <a href="img/room/room3_1.jpg"><img class="thumb"
                     src="img/room/room3_1_thumb.jpg"></a>
-                <div class="sub-thumb-row"> <a href="img/room/room3_2.jpg"><img
-                      class="sub-thumb" src="img/room/room3_2_thumb.jpg"></a>&nbsp;&nbsp;
-                  <a href="img/room/room3_5.jpg"><img class="sub-thumb" src="img/room/room3_3_thumb.jpg"></a>
-                  <a href="img/room/room3_3.jpg"><img class="sub-thumb" src="img/room/room3_5_thumb.jpg"></a>
+                <div class="sub-thumb-row"> &nbsp;&nbsp; <a href="img/room/room3_5.jpg"><img
+                      class="sub-thumb" src="img/room/room3_3_thumb.jpg"></a> <a
+                    href="img/room/room3_3.jpg"><img class="sub-thumb" src="img/room/room3_5_thumb.jpg"></a><a
+                    href="img/room/room3_2.jpg"><img class="sub-thumb" src="img/room/room3_2_thumb.jpg"></a>
                 </div>
               </div>
             </div>
